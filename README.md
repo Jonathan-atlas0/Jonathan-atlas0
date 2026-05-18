@@ -1,12 +1,6 @@
-## 🟡 Pac-Man dos commits
+## 🟡 Meus commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jonathan-atlas0/Jonathan-atlas0/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jonathan-atlas0/Jonathan-atlas0/output/pacman-contribution-graph.svg">
-
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Jonathan-atlas0/Jonathan-atlas0/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jonathan-atlas0/Jonathan-atlas0/output/pacman-contribution-graph-dark.svg" 
+       alt="Pac-Man contribution graph">
+</p>
