@@ -1,3 +1,6 @@
+# Olá, eu sou Jonathan 👋
+
+💻 Estudante de Ciência da Computação
 
 
 <p align="center">
