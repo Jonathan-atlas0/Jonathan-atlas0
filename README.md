@@ -1,16 +1,13 @@
-JS
 Jonathan Santos
 
 Estudante de Ciências da Computação · Backend · Web · IA
 
-// prévia do seu README.md
 
 # Olá, eu sou Jonathan Santos 👋
 
 🎓 Estudante de **Ciências da Computação**
 💡 Apaixonado por backend, desenvolvimento web e inteligência artificial
 🏆 Participante de hackathon de IA com AMD — projeto **Orvex**
-🔨 Transformando ideias em código desde o início da graduação
 
 ---
 
